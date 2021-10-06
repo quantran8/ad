@@ -1,0 +1,71 @@
+{
+  "bikes":[
+      {
+          "id":"b1",
+          "name":"m100 PRo",
+          "thumbnail":"http://www.trinx.com/upfile/2021/07/20210731143639_526.jpg",
+          "slug":"moutainbikes",
+          "info":{
+            "img":"http://www.trinx.com/upfile/2021/07/20210731150159_532.jpg",
+
+              "price":500,
+              "color":["red","blue","green"],
+              "weight":"10"
+
+          }
+      },
+      {
+        "id":"b2",
+        "name":"m100 PRo",
+        "slug":"citybikes",
+        "thumbnail":"http://www.trinx.com/upfile/2021/07/20210731150143_580.jpg",
+        "info":{
+            "img":"http://www.trinx.com/upfile/2021/07/20210731150159_532.jpg",
+            "price":500,
+            "color":["red","blue","green"],
+            "weight":"10"
+
+        }
+    },
+    {
+        "id":"b3",
+        "name":"m100 PRo",
+        "thumbnail":"http://www.trinx.com/upfile/2021/07/20210731143639_526.jpg",
+        "slug":"moutainbikes",
+        "info":{
+            "img":"http://www.trinx.com/upfile/2021/07/20210731111959_842.jpg",
+            "price":500,
+            "color":["red","blue","green"],
+            "weight":"10"
+
+        }
+    },
+    {
+        "id":"b4",
+        "name":"m100 PRo",
+        "thumbnail":"http://www.trinx.com/upfile/2021/07/20210731141734_181.jpg",
+        "slug":"citybikes",
+        "info":{
+            "img":"http://www.trinx.com/upfile/2021/07/20210731111959_842.jpg",
+            "price":500,
+            "color":["red","blue","green"],
+            "weight":"10"
+
+        }
+    },
+    {
+        "id":"b5",
+        "name":"m100 PRo",
+        "thumbnail":"http://www.trinx.com/upfile/2021/07/20210731105801_570.jpg",
+        "slug":"moutainbikes",
+        "info":{
+            
+            "img":"http://www.trinx.com/upfile/2021/07/20210731150159_532.jpg",
+            "price":500,
+            "color":["red","blue","green"],
+            "weight":"10"
+
+        }
+    }
+  ]
+}
